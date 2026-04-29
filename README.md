@@ -33,7 +33,7 @@ Identifying clinical, demographic, and operational drivers of 30-day hospital re
 | Analysis Lead | Archit Raj | `github-handle` |
 | Visualization Lead | Shobhit | `github-handle` |
 | Strategy Lead | Om Kar Shukla | `omkarshukla84` |
-| PPT & Quality Lead | Rishav Dewan | `rishavdewan10` |
+| PPT & Quality Lead | Rishav Dewan | `@rish106-hub` |
 
 ---
 
